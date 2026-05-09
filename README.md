@@ -1,14 +1,6 @@
 <div align="center">
 
-<img src="banner.png" width="100%" />
-
-<br><br>
-
-# SHRAMITA MAHESHWARI
-
-```bash
-AI/ML Engineer | GenAI Systems | Software Engineering
-```
+<img src="abc.png" width="100%" />
 
 <p align="center">
 Building deployable AI systems with a focus on retrieval, NLP, forecasting, and intelligent workflows.
@@ -16,9 +8,23 @@ Building deployable AI systems with a focus on retrieval, NLP, forecasting, and 
 
 <br>
 
-[linkedin](https://www.linkedin.com/in/shramita-maheshwari/) •
-[leetcode](https://leetcode.com/u/shramita/) •
-[email](mailto:shramitamaheshwari2303@gmail.com)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shramita-maheshwari/">
+<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=C084FC"/>
+</a>
+
+<a href="https://github.com/shramitamaheshwari">
+<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=C084FC"/>
+</a>
+
+<a href="https://leetcode.com/u/shramita/">
+<img src="https://img.shields.io/badge/LeetCode-0f172a?style=for-the-badge&logo=leetcode&logoColor=C084FC"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=shramitamaheshwari&style=for-the-badge&color=7C3AED"/>
+
+</div>
 
 </div>
 
