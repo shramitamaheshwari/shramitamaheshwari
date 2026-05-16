@@ -22,8 +22,6 @@ Building deployable AI systems with a focus on retrieval, NLP, forecasting, and 
 <img src="https://img.shields.io/badge/LeetCode-0f172a?style=for-the-badge&logo=leetcode&logoColor=C084FC"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=shramitamaheshwari&style=for-the-badge&color=7C3AED"/>
-
 </div>
 
 </div>
